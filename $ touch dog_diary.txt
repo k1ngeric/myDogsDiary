@@ -1,1 +1,5 @@
 1-1-2017: A new year, a new me, no more biting the sofa.
+
+$ git push origin master
+Note: github now sets new repository's default branch as main instead of master, so do this instead if your github repo default branch is main.
+$ git push origin main
